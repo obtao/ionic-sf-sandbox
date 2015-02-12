@@ -1,5 +1,5 @@
-Obtao Symfony Rest Api Framework
-================================
+Ionic Symfony Sandbox
+=====================
 
 About
 -----
@@ -26,4 +26,11 @@ Run
 
 ```bash
 app/console server:run
+```
+
+API
+---
+API documentation is available at 
+```
+http://localhost:8000/api/doc
 ```
